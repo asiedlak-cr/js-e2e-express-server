@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/amerritt0226/Training/_apis/build/status/asiedlak-cr.js-e2e-express-server?branchName=main)](https://dev.azure.com/amerritt0226/Training/_build/latest?definitionId=2&branchName=main)
+
 ---
 page_type: sample
 languages:
